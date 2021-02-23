@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on echo thoughts</title>
-    <link>http://dejancvijanovic.com/categories/</link>
+    <link>http://blog.dejancvijanovic.com/categories/</link>
     <description>Recent content in Categories on echo thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://dejancvijanovic.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://blog.dejancvijanovic.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
